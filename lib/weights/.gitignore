@@ -1,0 +1,4 @@
+# None of files in this folder should be stored in repo
+#  except this very file (obviously).
+*
+!.gitignore
